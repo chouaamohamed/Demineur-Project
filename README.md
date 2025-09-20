@@ -1,4 +1,4 @@
-# Projet Démineur
+# Projet Démineur (Q1 2024-2025)
 Projet démineur créé par binôme lors du Q1 2024-2025 que je poste maintenant car je n'avais pas de compte GitHub auparavant.
 
 ## Principe
@@ -17,3 +17,7 @@ Simple jeu de démineur créé sur Python à l'aide de Pygame et d'autres biblio
 - `json` : pour le système de score
 - `pygame_gui` et `pygame_gui.elements` : pour les boutons du jeu
 - `os` : pour pouvoir utiliser des fichiers externes dans le jeu (images, polices d'écritures, fichier json)
+
+## Auteurs
+- Chouaa Mohamed
+- Bicha Anis
